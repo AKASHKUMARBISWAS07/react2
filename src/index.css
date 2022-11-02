@@ -1,9 +1,9 @@
 body{
   background-color: cadetblue;
   background-image: linear-gradient(
-    rgb(96, 232, 244),
-    rgba(240, 104, 255, 0.922),
-    rgb(249, 45, 222)
+     rgb(159, 241, 248),
+    rgba(243, 138, 171, 0.922),
+    rgb(246, 158, 158)
   );
 }
 .m1{
